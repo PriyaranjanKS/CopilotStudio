@@ -1,8 +1,8 @@
-# Microsoft Copilot Studio: Zero To Hero
+# Microsoft Copilot Studio Agents: Zero To Hero
 
 ## Introduction
 
-Welcome to *Microsoft Copilot Studio: Zero to Hero*. This book is your one‐stop resource for learning how to build intelligent, domain-specific AI assistants using Microsoft Copilot Studio, Azure AI services, and integrated platforms like Dataverse, SharePoint, and Power Apps. Whether you're looking to create a farming assistant, automate team creation in Microsoft Teams, develop multilingual chatbots, or even implement robust content safety measures, this guide provides step‐by‐step instructions, practical examples, and best practices to help you harness the power of generative AI.
+Welcome to *Microsoft Copilot Studio Agents: Zero to Hero*. This book is your one‐stop resource for learning how to build intelligent, domain-specific AI assistants using Microsoft Copilot Studio, Azure AI services, and integrated platforms like Dataverse, SharePoint, and Power Apps. Whether you're looking to create a farming assistant, automate team creation in Microsoft Teams, develop multilingual chatbots, or even implement robust content safety measures, this guide provides step‐by‐step instructions, practical examples, and best practices to help you harness the power of generative AI.
 
 The chapters in this book cover diverse real-world use cases—from customer service and invoice anomaly detection to sales analysis and material procurement—demonstrating how to integrate advanced technologies such as Azure OpenAI, Anthropic Claude,Meta Llama and Google Gemini API with the Microsoft Power Platform. Each chapter explains how to configure data sources, build conversation flows using adaptive cards, implement dynamic topic routing, and deploy your copilot to various channels.
 
