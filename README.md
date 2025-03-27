@@ -10,14 +10,13 @@ The chapters in this book cover diverse real-world use cases—from customer ser
 [![Download PDF – Copilot Studio Book](https://img.shields.io/badge/Download%20Now-PDF-blue?style=for-the-badge&logo=github)](https://github.com/PriyaranjanKS/CopilotStudio/releases/tag/CopilotStudioAgents)
 
 > **Click the button above** to download the entire book from GitHub Releases.
+
 <img 
   src="https://github.com/user-attachments/assets/f068db16-bd07-459e-bb82-309e39d811c9"
   alt="Agents"
   width="400"
 />
-![Agents](https://github.com/user-attachments/assets/f068db16-bd07-459e-bb82-309e39d811c9)
-
-
+ 
 Below is the detailed Table of Contents.
 
 ## Table of Contents
